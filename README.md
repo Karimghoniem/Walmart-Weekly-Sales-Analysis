@@ -57,5 +57,4 @@ These insights support data-driven decisions in **marketing, promotions, and sup
 ---
 
 ### 🔗 Links:
-- 📊 Power BI Dashboard: *(Add your link here if available)*
-- 💻 GitHub Repo: *(Add your repo link here)*
+- 💻 GitHub Repo: [Walmart-Weekly-Sales-Analysis](https://github.com/Karimghoniem/Walmart-Weekly-Sales-Analysis)
